@@ -1,6 +1,6 @@
 public class MaxWealth {
     public static void main(String[] args) {
-
+        System.out.println("Hello World");
     }
 
     static int maximumWealth(int[][] accounts) {
@@ -19,6 +19,6 @@ public class MaxWealth {
                 max = rowkasum;
             }
         }
-        return max;
+        return max; // returns maximum wealth
     }
 }
