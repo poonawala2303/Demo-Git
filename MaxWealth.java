@@ -1,6 +1,7 @@
 public class MaxWealth {
     public static void main(String[] args) {
-        System.out.println("Hello!! Expt 4 ");
+        // System.out.println("Hello!! Expt 4 ");
+        System.out.println("This is the Expt 4"); // Changed Line
     }
 
     static int maximumWealth(int[][] accounts) {
